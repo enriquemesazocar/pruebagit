@@ -1,0 +1,11 @@
+commit ea8b0eb6ad3665d5d5d3871360dadd8b3918b2db
+Author: Victor Manuel <cedvic7@gmail.com>
+Date:   Fri Apr 15 15:32:00 2016 -0500
+
+    Adicionar el trabajo de VC
+
+commit 12650a24001873e11456fd1106fc2ff6f505a548
+Author: Miguel Castrejon <miguel.castrejon@meduca.gob.pa>
+Date:   Fri Apr 15 15:26:59 2016 -0500
+
+    Carga inicial prueba
